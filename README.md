@@ -17,7 +17,7 @@ Feel free to use these templates for your own blog. Just copy, paste, and fill i
 
 ## 1. The Listicle Post Template (e.g., "Top 10...")
 
-```markdown
+
 # [Number] Best [Topic] for [Audience] in [Year]
 
 > **Introduction:** Briefly introduce the topic and why this list is valuable. Mention the problem you're solving for the reader.
